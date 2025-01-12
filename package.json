@@ -4,7 +4,8 @@
     "description": "Assignment 2 for backend engineering launchpad",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon server.js"
+        "start": "nodemon server.js",
+        "test": "echo \"No test specified\" && exit 0"
     },
     "author": "Airtribe",
     "license": "ISC",
